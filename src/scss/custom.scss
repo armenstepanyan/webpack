@@ -1,0 +1,9 @@
+$div-color: aliceblue;
+
+div {
+ background: $div-color;
+ margin: auto;
+ width: 200px;
+ height: 150px;
+ border: 1px solid #000;
+}
